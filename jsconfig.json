@@ -1,7 +1,9 @@
 {
   "compilerOptions": {
     "paths": {
-      "@/*": ["./*"]
+      "@/*": ["./*"],
+      "@logos/*": ["./images/logos/*"],
+      "@intro/*": ["./images/intro/*"],
     }
   }
 }
